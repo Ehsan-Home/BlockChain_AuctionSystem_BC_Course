@@ -31,4 +31,4 @@ Also, check out my youtube video explaining breifly how to run this project 😊
 
 My Awsome teammates are:
 * Sara Sanati 🧑🏼‍💻
-* Sarvenaz Ghafourian 🧑🏼‍💻
+* [Sarvenaz Ghafourian 🧑🏼‍💻](https://github.com/Sarvenaz1376)
