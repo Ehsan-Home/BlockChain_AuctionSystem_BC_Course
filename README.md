@@ -27,3 +27,8 @@ As you might guess, there is no way for the bidder to change the intial bid sinc
 **‼️ Important Note:** the compiler version for this project is : **0.4.24+commit.e67f0147**
 
 Also, check out my youtube video explaining breifly how to run this project 😊 📺 : [Youtube](https://youtu.be/q-t4NOFGC7k)
+
+
+My Awsome teammates are:
+* Sara Sanati 🧑🏼‍💻
+* Sarvenaz Ghafourian 🧑🏼‍💻
