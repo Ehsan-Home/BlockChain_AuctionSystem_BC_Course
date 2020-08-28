@@ -28,7 +28,7 @@ As you might guess, there is no way for the bidder to change the intial bid sinc
 
 Also, check out my youtube video explaining breifly how to run this project 😊 📺 : [Youtube](https://youtu.be/q-t4NOFGC7k)
 
-
+## Contributions
 My Awsome teammates are:
 * Sara Sanati 🧑🏼‍💻
 * [Sarvenaz Ghafourian 🧑🏼‍💻](https://github.com/Sarvenaz1376)
